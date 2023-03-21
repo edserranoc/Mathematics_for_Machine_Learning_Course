@@ -4,6 +4,7 @@ This repository contains the final project and assignments for "Mathematics of M
 
 ## 1 Binary Classification
 This folder contains a practical application of machine learning using the Banknote Authentication and Occupancy Detection Data Sets. The goal is to classify the data into two categories using various machine learning models, including SVM,KNN, logistic regression, and others. The models ate compared using various metrics to determine the best approach. 
+
 ---
 
 ## Recommended Links
