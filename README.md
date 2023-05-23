@@ -9,6 +9,9 @@ This folder contains a practical application of machine learning using the Bankn
 
 ## Link Recommendations
 [1] A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Github Repository, Aurélien Geron [Handson-ml3](https://github.com/ageron/handson-ml3).<br>
+[2] Learning From Data: Professor Yaser Abu-Mostafa.
+- The course website: http://work.caltech.edu/telecourse.html
+- Book: Abu-Mostafa, Y.S., Magdon-Ismail, M., & Lin, H. (2012). Learning From Data.
 
 ## License
 This project is licensed under the Apache-2.0 license. See the LICENSE file for details.
